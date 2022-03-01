@@ -8,7 +8,7 @@ namespace Module3_2_2
 		{
 
 			string myName;
-			myName = "Jane";
+			myName = "Stepan";
 
 			Console.WriteLine(myName);
 
